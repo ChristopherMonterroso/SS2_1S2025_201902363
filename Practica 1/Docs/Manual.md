@@ -1,4 +1,4 @@
-## ⚙️ **Instalación y Configuración**
+##  **Instalación y Configuración**
 
 ### 1. **Crear y Activar un Entorno Virtual**
 
@@ -33,7 +33,7 @@ Ejecutar el menú principal con:
 python main.py
 </span></code></div></div></pre>
 
-### 📌 **Opciones del Menú**
+###  **Opciones del Menú**
 
 
 | Opción | Descripción                                      |
