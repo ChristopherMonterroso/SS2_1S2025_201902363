@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Proyecto1_pivote"
+  DTS:DTSID="{3B241D40-B2BD-4777-BEA6-362FBB0546E5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=Chris-PC\SQLEXPRESS;Initial Catalog=PIVOTE;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{3B241D40-B2BD-4777-BEA6-362FBB0546E5}Chris-PC\SQLEXPRESS.PIVOTE;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

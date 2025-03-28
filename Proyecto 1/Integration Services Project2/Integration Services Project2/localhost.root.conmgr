@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.root"
+  DTS:DTSID="{D61C3C9A-CA82-44F9-95BB-F8B27C209A32}"
+  DTS:CreationName="ADO.NET:MySql.Data.MySqlClient.MySqlConnection, MySql.Data, Version=8.4.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="server=127.0.0.1;user id=root;database=pivote;logging=True;">
+      <DTS:Password
+        DTS:Name="password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXduNCv0kXU2ZcpbEGPjCaAAAAAACAAAAAAAQZgAAAAEAACAAAABF1pFyP1CB4RMfDuvbbyJe6hp07+dufsijbn/hFLdFqQAAAAAOgAAAAAIAACAAAAANePYO+dFD+GzOJKEYUatAzqC8mIudMvNjaij7vHbXiYAAAADk27rSp3wNZk/CsMEc2V/ybSn3M3zwwHgFsVMYmgcBkOfAT8XB/nN8JTraR3132lEgY1pVCnCnmOj4N2GHWdQXj+fQIev44qFcJW2TjWgcr62usW4QhpTG2DjsDicNEh8mjyZABdlk9jNOPkUfKX9C05GK9yLMNcreN/s92RAC3EAAAABZh0XbKu+GHmT1+ifEx8bYFYT7GhICTavXyYzTBC2Wve8Cjx60ofcPPtds85CtgAzAb6dcFOxQHCVSLbyE8bMD</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
